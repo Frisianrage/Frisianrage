@@ -2,7 +2,7 @@
 
 #### I'm a self taught software engineer from the beautiful PNW!
 
-[![Linkedin Badge](https://img.shields.io/badge/-andre-zorn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-zorn/)](https://www.linkedin.com/in/andre-zorn/)
+[![Linkedin Badge](https://img.shields.io/badge/-andre_zorn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-zorn/)](https://www.linkedin.com/in/andre-zorn/)
 [![Gmail Badge](https://img.shields.io/badge/-frisianrage@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:frisianrage@gmail.com)](mailto:frisianrage@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-frisianrage-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/frisianrage)](https://twitter.com/frisianrage)
 <!--
 ## About Me
@@ -21,7 +21,7 @@
 ![Express](https://img.shields.io/badge/-Express-purple?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-MongoDB-blue?style=flat-square&logo=postgresql)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 <br>
 ![SASS](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
