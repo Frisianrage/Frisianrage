@@ -2,7 +2,7 @@
 
 #### I'm a self taught software engineer from the beautiful PNW!
 
-### How to find me outside Github
+##### How to find me outside Github
 
 [![Linkedin Badge](https://img.shields.io/badge/-andre_zorn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-zorn/)](https://www.linkedin.com/in/andre-zorn/)
 [![Gmail Badge](https://img.shields.io/badge/-frisianrage@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:frisianrage@gmail.com)](mailto:frisianrage@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-frisianrage-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/frisianrage)](https://twitter.com/frisianrage)
@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on any project. I have never collaborated on a project outside a bootcamp but I am eager and motivated to jump into a project!
 - 💬 Ask me about anything you would like to know. I am happy to connect with you!
 - 😄 Pronouns: he/him
-- 
+ 
 ## Languages and Tools:
 
 ### My main stack
