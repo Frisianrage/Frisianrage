@@ -30,7 +30,7 @@
 
 ### I also worked with:
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
-![PostgreSQL](https://img.shields.io/badge/-MongoDB-blue?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)
 ![SASS](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=FFFFFF)
 
 
