@@ -15,17 +15,20 @@
 ## Languages and Tools:
 
 ### My main stack:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+<br>
 ![React](https://img.shields.io/badge/-ReactJS-blue?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-purple?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-MongoDB-blue?style=flat-square&logo=postgresql)
+
+### I also worked with:
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
-<br>
+![PostgreSQL](https://img.shields.io/badge/-MongoDB-blue?style=flat-square&logo=postgresql)
 ![SASS](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
